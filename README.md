@@ -1,4 +1,4 @@
-# A simply dice 🎲 game with JavaScript for practive
+# A simply dice 🎲 game with JavaScript for practice
 
 Quick start:
 
